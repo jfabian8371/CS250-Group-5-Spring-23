@@ -1,7 +1,7 @@
 # CS250-Group-5-Spring-23
 Group for cs250
 
-Ethan Fox; 
+genkuro03 - Ethan Fox; 
 jfabian8371 - Jason Park Fabian; 
 Alan Yin; 
 
