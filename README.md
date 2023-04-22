@@ -8,3 +8,5 @@ Chorizoman01 - Alan Yin;
 https://docs.google.com/document/d/1DwZCaoB-9QAtUqBlTMeaTv3ch8yUULhpas4Sx5k4fXs/edit?usp=sharing
 https://docs.google.com/document/d/1zNesMfztkh132tfd_BmjgORaIHCj6UER2N2ibHypCmM/edit?usp=sharing
 Commit 2
+https://docs.google.com/document/d/1Vr1sgrF6_JqwYj89lSaSvvRYJiseBebYkWrqteSRAPU/edit?usp=sharing
+Commit 3
